@@ -1,0 +1,5 @@
+{
+  "name": "WooCRM Integration",
+  "description": "A Customer Relationship Management system that integrates with WooCommerce for customer data, order tracking, and communication workflows.",
+  "requestFramePermissions": []
+}
